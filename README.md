@@ -1,6 +1,5 @@
 # Ash-00000 - Code Artisan and Digital Explorer 🚀
 
-![Ash-00000 Banner](https://raw.githubusercontent.com/Ash-00000/Ash-00000/main/assets/banner.png)
 
 ## Hey there, fellow Code Adventurer! 👋
 
