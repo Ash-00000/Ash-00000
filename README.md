@@ -4,7 +4,33 @@
 ## Hey there, fellow Code Adventurer! 👋
 
 Welcome to the mesmerizing world of Ash-00000 - where code becomes art, and technology turns into an adventure! I'm Ash, your companion in the digital realm, weaving lines of code into fascinating projects.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KIRAN-KUMAR-K3/banner/main/Untitled%20design%20(1).png" alt="Logo">
+</div>
 
+<h1 align="center">Hi 👋, I'm ASH </h1>-
+
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h3 align="center">🔒🐧 Cyber Guardian | Code Caretaker | Exposing flaws with exactitude | 🌐 Securing the digital realm | #CodeGuardian #LinuxDefender</h3></br>
+<img align="right" alt="Coding" width="400" src="https://cybrhawk.com/wp-content/uploads/2023/07/djbwgfw.gif">
+
+<p align="left"> 
+
+</p>
+
+- 🔭 Currently pursuing COMPUTER SCIENCE ENGINEERING
+
+- 💬 **Let's talk about:**
+  - 🌐 Cybersecurity & Ethical Hacking
+  - 💻 Python, C, KALI LINUX🐧
+  - 🚀 GitHub Contributions & Open Source
+  - 🔧 Tech Stack Recommendations
+
+Feel free to reach out for vibrant discussions or any questions in these areas! 🚀
+
+
+- ⚡ 🌟 Nocturnal coder: Unleashing tech magic during late-night hours. 🌙💻
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
 
